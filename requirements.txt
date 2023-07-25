@@ -1,0 +1,4 @@
+pysimplegui
+python-magic
+python-libmagic
+python-magic-bin==0.4.14
